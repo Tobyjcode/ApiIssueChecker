@@ -1,0 +1,15 @@
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\bin\Debug\net6.0\profilepage.cilent.exe
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\bin\Debug\net6.0\profilepage.cilent.deps.json
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\bin\Debug\net6.0\profilepage.cilent.runtimeconfig.json
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\bin\Debug\net6.0\profilepage.cilent.dll
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\bin\Debug\net6.0\profilepage.cilent.pdb
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\profilepage.cilent.csproj.AssemblyReference.cache
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\profilepage.cilent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\profilepage.cilent.AssemblyInfoInputs.cache
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\profilepage.cilent.AssemblyInfo.cs
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\profilepage.cilent.csproj.CoreCompileInputs.cache
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\profilepage.cilent.dll
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\refint\profilepage.cilent.dll
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\profilepage.cilent.pdb
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\profilepage.cilent.genruntimeconfig.cache
+C:\Users\tobia\source\repos\ProfilePageApi\profilepage.cilent\obj\Debug\net6.0\ref\profilepage.cilent.dll
